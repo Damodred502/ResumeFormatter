@@ -1,0 +1,10 @@
+# Bytecode cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Environment and Virtual Environment
+.env
+venv/
+kcoj_trusted_roots.crt

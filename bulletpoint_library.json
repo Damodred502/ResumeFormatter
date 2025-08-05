@@ -1,0 +1,45 @@
+{
+  "G" : {
+    "introduction" : "U.S. Air Force veteran and results-driven Senior Product Manager with 10+ years of experience leading enterprise-scale digital transformations. Proven track record in modernizing software development lifecycles with cloud-native platforms, integrating AI-powered development tools, and driving adoption of DevOps practices across engineering teams. Adept at collaborating with stakeholders, accelerating innovation through technical strategy, and delivering scalable, secure solutions aligned with business outcomes.",
+    "si" : "Technical Pre-Sales Engagements, DevSecOps Strategy, AI-Driven Productivity, Stakeholder Alignment, Cross-Functional Leadership, Thought Leadership, Product Strategy, Project Management Tooling, GitHub, GitOps, Azure, AWS, CI/CD, Automation, C#, .NET, JavaScript, Python, Node.js, DevOps, Observability, Platform Engineering, SQL, Data Reporting, Schema Design, Cloud Data Integration, A/B Testing & Experimentation, Product Roadmapping & KPI Design, Customer Journey Mapping, Digital Experience Optimization (Web/Mobile/Social), Business Case Development, User Research & Usability Testing, Agile Product Ownership, UX/UI Collaboration, Funnel Conversion Strategy, Omnichannel Product Experience"
+  },
+  
+  "A": {
+    "a_bp_1": "Provided project leadership on $37 million modernization initiative to transition core applications\u2014including the eFiling and Court Case Management systems\u2014to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
+    "a_bp_2": "Rearchitected the KYeCourts system and developed 87 new applications, databases, and services to support the COTS solution.",
+    "a_bp_3": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
+    "a_bp_4": "Built governance frameworks to manage project risks, develop risk mitigation strategies, ensure accountability, and drive progress across internal teams and vendor partnerships.",
+    "a_bp_5": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
+    "a_bp_6": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
+    "a_bp_7": "Established tooling\u2014including Playwright, GitHub Actions, code coverage tracking\u2014to support AI-assisted quality assurance.",
+    "a_bp_8": "Modernized engineering workflows with AI integrations, Azure DevOps and GitHub, driving GitOps, YAML pipelines, and integrated backlog management.",
+    "a_bp_9": "Led ITIL-aligned change management under PMO governance, tracking environment deltas, issuing change notices, and delivering weekly release reports for cross-team and leadership alignment.",
+    "a_bp_10": "Led high-velocity dev engagements and cross-functional planning for enterprise-scale rollouts aligned with critical delivery timelines.",
+    "a_bp_11": "Organized process improvement through Agile workflow rearchitecture, increasing story velocity by 30% and reducing cycle time by 40% across delivery teams.",
+    "a_bp_12": "Introduced AI-aligned developer KPIs and tooling benchmarks to quantify productivity, adoption, and performance impact.",
+    "a_bp_13": "Engaged enterprise stakeholders to align DevSecOps strategy and drive adoption of new developer tooling and cloud architecture.",
+    "a_bp_14": "Achieved 19% Azure cost savings via service optimization and vendor consolidation; identified tech stack synergies to reduce licensed software spend by 10%.",
+    "a_bp_15": "Led problem remediation initiatives within the ITIL framework, exceeding service availability standards through performance dashboards and rapid issue resolution.",
+    "a_bp_16": "Coordination with INFOSEC to ensure all applications adhered to KCOJ standards, including broad adoption of CIS IG1.",
+    "a_bp_17": "Used Launch Darkly to A/B test dev builds with whitelisted user groups, gathering feedback to improve product delivery.",
+    "a_bp_18": "Tested feature hypotheses using Launch Darkly A/B builds; iterated based on KPI-aligned user feedback loops",
+    "a_bp_19": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements."
+
+  },
+  "B": {
+    "b_bp_1": "Negotiated a 3-year, $500K contract to design and develop a cloud-based software application to modernize the Homeownership Readiness industry white labeled under the client\u2019s brand. Founded Brick Bridge Consulting and filled key technical positions to meet definitions of done in the project management plan.",
+    "b_bp_2": "Partnered with sales in pre-sales engagements to showcase product capabilities; led discovery sessions, crafted mockups, and delivered live demos of prototypes and MVPs to drive client buy-in.",
+    "b_bp_3": "Owned the product design process from end-to-end beginning with requirement discovery through product launch. Drafted low-fidelity wireframes and database schemas.",
+    "b_bp_4": "Voice of the Customer and lead weekly product demonstration meetings with key stakeholders to collect feedback and iterate on the strategic product roadmap.",
+    "b_bp_5": "Collaborated with multiple cross-functional teams including backend, UI/UX, Marketing &amp Documentation. Owned and prioritized the product backlog and led scrum ceremonies.",
+    "b_bp_6": "Architected cloud-native APIs on AWS for secure platform integration, with containerized services and automated scaling.",
+    "b_bp_7": "Championed customer feedback loops and stakeholder alignment to iteratively evolve roadmap and accelerate product-market fit.",
+    "b_bp_8": "Led end-to-end product design lifecycle—from discovery to launch—prioritizing user needs, usability, and market-fit outcomes.",
+    "a_bp_9": ""
+  },
+  "C": {
+    "c_bp_1": "Raised $1.2M over two years through grant funding to support operations and an excess of 170 clients seeking support in launching, expanding, or recovering a small business.",
+    "c_bp_2": "Raised a $500K direct micro-loan portfolio to provide capital to start-up Louisville micro-enterprises. Managed loan servicing, collections, and technical assistance.",
+    "c_bp_3": "Groomed some dogs"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "G": {
+    "introduction": "U.S. Air Force veteran and accomplished Digital Product Manager with over 10 years of experience in driving digital transformation and eCommerce growth. Proven expertise in leading cross-functional teams, developing strategic product roadmaps, and leveraging next-gen technology to enhance customer acquisition in the Medicare Advantage space. Adept at balancing business objectives with technical requirements to deliver innovative and scalable digital solutions.",
+    "si": "Digital Product Management, eCommerce Strategy, Cross-Functional Leadership, Agile Methodologies, Stakeholder Engagement, Product Roadmap Development, Data-Driven Decision Making, User Experience Design, Cloud-Native Solutions, AI Integration, DevOps Practices, Hypothesis Testing, Customer Acquisition, Strategic Thought Leadership, KPI Monitoring"
+  },
+  "A": {
+    "a_bp_1": "Led high-velocity dev engagements and cross-functional planning for enterprise-scale rollouts aligned with critical delivery timelines.",
+    "a_bp_2": "Engaged enterprise stakeholders to align DevSecOps strategy and drive adoption of new developer tooling and cloud architecture.",
+    "a_bp_3": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
+    "a_bp_4": "Provided project leadership on $37 million modernization initiative to transition core applications\u2014including the eFiling and Court Case Management systems\u2014to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
+    "a_bp_5": "Rearchitected the KYeCourts system and developed 87 new applications, databases, and services to support the COTS solution.",
+    "a_bp_6": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
+    "a_bp_7": "Introduced AI-aligned developer KPIs and tooling benchmarks to quantify productivity, adoption, and performance impact.",
+    "a_bp_8": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
+    "a_bp_9": "Tested feature hypotheses using LaunchDarkly A/B builds; iterated based on KPI-aligned user feedback loops.",
+    "a_bp_10": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements."
+  },
+  "B": {
+    "b_bp_1": "Owned the product design process from end-to-end beginning with requirement discovery through product launch. Drafted low-fidelity wireframes and database schemas.",
+    "b_bp_2": "Partnered with sales in pre-sales engagements to showcase product capabilities; led discovery sessions, crafted mockups, and delivered live demos of prototypes and MVPs to drive client buy-in.",
+    "b_bp_3": "Collaborated with multiple cross-functional teams including backend, UI/UX, Marketing & Documentation. Owned and prioritized the product backlog and led scrum ceremonies.",
+    "b_bp_4": "Voice of the Customer and lead weekly product demonstration meetings with key stakeholders to collect feedback and iterate on the strategic product roadmap.",
+    "b_bp_5": "Negotiated a 3-year, $500K contract to design and develop a cloud-based software application to modernize the Homeownership Readiness industry white labeled under the client\u2019s brand."
+  },
+  "C": {
+    "c_bp_1": "Raised $1.2M over two years through grant funding to support operations and an excess of 170 clients seeking support in launching, expanding, or recovering a small business.",
+    "c_bp_2": "Raised a $500K direct micro-loan portfolio to provide capital to start-up Louisville micro-enterprises. Managed loan servicing, collections, and technical assistance."
+  }
+}
