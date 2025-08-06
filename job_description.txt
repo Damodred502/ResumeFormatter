@@ -1,32 +1,46 @@
-Lead Digital Product Manager
-About the job
-Become a part of our caring community and help us put health first
+Manager, Application Engineering
+About This Position
 
-Our brokerage business is poised to advance the industry in how digital can be used to drive customer acquisition in the Medicare Advantage space. Within this business area, we are aggressively driving new digital capabilities, new ways of working, and employing next-gen technology to revolutionize how Medicare Advantage is sold. This role is part of this expanding Digital organization, and will be critical in our growth plans.
+The Manager, Application Engineering is responsible for managing a team of brilliant Application Engineers and QA resources who are focused on unlocking the full potential of multiple project teams across Waystar’s organization. Our Managers are willing to jump in and roll their sleeves up in order to get the job done and are certainly highly technical.
 
-Key Responsibilities
+What You'll Do
 
-Develop the vision and roadmap for existing and new digital products or multiple feature sets, including functionality, performance, results criteria, evolution, and lifecycle, all towards innovatively and aggressively growing our eCommerce acquisition channel.
-Provide strategic thought-leadership inside this organization, and with partner organizations in the enterprise, on approaches to best-practices in Product Management. Be a leader in how Product Management at the company should be done.
-Assess the business and consumer impact of various options and effectively balance tradeoffs between business/customer needs, technology requirements, costs, and time and budget, to deliver compelling solutions.
-Establish hypotheses that enable us to test, learn, and iterate with high speed, enabling supercharged business growth.
-Structure and lead meetings, clearly communicate expectations, and ensure that stakeholders are adequately updated on progress and milestones.
-Establish success measures/product/feature KPIs , and regularly monitor and adjust execution strategy to achieve.
-Proven ability to lead cross-functional teams through influence versus direct management; excellent interpersonal skills.
-Be customer and data obsessed - maintain a deep understanding of the needs and goals of consumers and business to develop requirements, data and features needed to deliver on a best-in-class digital experience.
-Create business cases to be prioritized on the roadmap and collaborate with the engineering, design, marketing, and sales teams to build business cases, requirements/services, and determine the best technical implementation method and schedule.
+Manages all day-to-day activities of the team
+Conducts People Operations responsibilities for all assigned team members, including performance reviews, disciplinary action, etc.
+Schedules projects and resources, and monitors project timelines; will ultimately be accountable for the success or failure of all team projects
+Motivates and provides guidance to team members to accomplish team goals through counseling, performance reviews, mentoring, and team building activities
+Coaches high level team members; ensures they are force multipliers that benefit multiple technology teams across multiple disciplines
+Works with the Business Product Owners to identify priorities for projects in areas including (but not limited to): rapid application development and process efficiency
+Works closely and cohesively with other Managers within Technology, as well as with key stakeholders in related departments
+Defines and refines department best practices, implementing policies and procedures related to application quality, standards, and testing
+Works with technology teams looking to bring change into the organization by refining their requests and presenting them for architectural review
+Technical capabilities are on par with an application architect
+Plays an integral part in establishing, driving, and enhancing processes and procedures within the team, and within the Technology department as a whole
+Routinely provides hands-on, on location training and guidance to multiple team members across the organization
+Establishes priorities for Architects on this team, and works to remove barriers within the organization to allow them to act as change agents
+Additional duties as assigned
 
-Use Your Skills To Make An Impact
+What You'll Need
 
-Natural leadership instincts with proven ability to innovate and influence
-7+ years of product management experience
-Deep user empathy and strong user experience sensibilities
-Ability to work well with designers and engineers in an agile environment
-An entrepreneurial work style, you're a self-starter
+7+ years of .NET and SQL Server experience
+3+ years’ experience as a Technical Lead/Lead Engineer
+Unit Testing experience
 Excellent written and verbal communication skills
-Ability to facilitate collaborative decision-making in a workshop setting
-An analytical and metrics-driven work style
-Digital experience (web, mobile, social and ecommerce) is required
-Comfort in a fast-paced and dynamic environment
+Ability to work in a very fast-paced environment & welcome change
+Highly self-motivated
+Ability to work both in team and solo environments
+Experience building highly scalable software solutions
+Subject Matter Expertise in 3+ technical tracks
+Ability to run a team of 3+ team members
+Able to plan and initiate multi-quarter projects with a full project team
+Bachelor’s degree in related field or equivalent work experience
+Prior managerial experience preferred
+Experience developing solutions for SAAS infrastructure also preferred
 
-Travel: While this is a remote position, occasional travel to Humana's offices for training or meetings may be required.
+About Waystar
+
+Through a smart platform and better experience, Waystar helps providers simplify healthcare payments and yield powerful results throughout the complete revenue cycle.
+
+Waystar’s healthcare payments platform combines innovative, cloud-based technology, robust data, and unparalleled client support to streamline workflows and improve financials so providers can focus on what matters most: their patients and communities. Waystar is trusted by 1M+ providers, 1K+ hospitals and health systems, and is connected to over 5K commercial and Medicaid/Medicare payers. We are deeply committed to living out our organizational values: honesty; kindness; passion; curiosity; fanatical focus; best work, always; making it happen; and joyful, optimistic & fun.
+
+Waystar products have won multiple Best in KLAS® or Category Leader awards since 2010 and earned multiple #1 rankings from Black Book™ surveys since 2012. The Waystar platform supports more than 500,000 providers, 1,000 health systems and hospitals, and 5,000 payers and health plans. For more information, visit waystar.com or follow @Waystar (https://twitter.com/Waystar) on Twitter.

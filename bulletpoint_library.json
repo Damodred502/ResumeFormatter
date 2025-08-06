@@ -1,7 +1,7 @@
 {
   "G" : {
     "introduction" : "U.S. Air Force veteran and results-driven Senior Product Manager with 10+ years of experience leading enterprise-scale digital transformations. Proven track record in modernizing software development lifecycles with cloud-native platforms, integrating AI-powered development tools, and driving adoption of DevOps practices across engineering teams. Adept at collaborating with stakeholders, accelerating innovation through technical strategy, and delivering scalable, secure solutions aligned with business outcomes.",
-    "si" : "Technical Pre-Sales Engagements, DevSecOps Strategy, AI-Driven Productivity, Stakeholder Alignment, Cross-Functional Leadership, Thought Leadership, Product Strategy, Project Management Tooling, GitHub, GitOps, Azure, AWS, CI/CD, Automation, C#, .NET, JavaScript, Python, Node.js, DevOps, Observability, Platform Engineering, SQL, Data Reporting, Schema Design, Cloud Data Integration, A/B Testing & Experimentation, Product Roadmapping & KPI Design, Customer Journey Mapping, Digital Experience Optimization (Web/Mobile/Social), Business Case Development, User Research & Usability Testing, Agile Product Ownership, UX/UI Collaboration, Funnel Conversion Strategy, Omnichannel Product Experience"
+    "si" : "Technical Pre-Sales Engagements, DevSecOps Strategy, AI-Driven Productivity, Stakeholder Alignment, Cross-Functional Leadership, Thought Leadership, Product Strategy, Project Management Tooling, GitHub, GitOps, Azure, AWS, CI/CD, Automation, C#, .NET, JavaScript, Python, Node.js, DevOps, Observability, Platform Engineering, SQL, Data Reporting, Schema Design, Cloud Data Integration, A/B Testing & Experimentation, Product Roadmapping & KPI Design, Customer Journey Mapping, Digital Experience Optimization (Web/Mobile/Social), Business Case Development, User Research & Usability Testing, Agile Product Ownership, UX/UI Collaboration, Funnel Conversion Strategy, Omnichannel Product Experience, Frontend Development(Razor/Blazor, React), Backend Development(.Net, SQL Server, Node.js, Python)"
   },
   
   "A": {
@@ -23,7 +23,13 @@
     "a_bp_16": "Coordination with INFOSEC to ensure all applications adhered to KCOJ standards, including broad adoption of CIS IG1.",
     "a_bp_17": "Used Launch Darkly to A/B test dev builds with whitelisted user groups, gathering feedback to improve product delivery.",
     "a_bp_18": "Tested feature hypotheses using Launch Darkly A/B builds; iterated based on KPI-aligned user feedback loops",
-    "a_bp_19": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements."
+    "a_bp_19": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements.",
+    "a_bp_20": "Drafted and enforced unit testing and code coverage standards for production deployment; achieved 100% coverage on new development and reduced production issues by 30% across legacy and greenfield systems.",
+    "a_bp_21": "Led quarterly and annual performance reviews; implemented a sprint-based governance model using a scorecard across 5 axes, reviewed by team leads across 8 agile teams to track and elevate developer performance.",
+    "a_bp_22": "Upheld performance standards through formal disciplinary actions, including PIPs, coaching, and team realignments to maintain project velocity and ensure alignment with delivery expectations.",
+    "a_bp_23": "Defined and enforced departmental policies and procedures, including workflow reengineering, release management protocols, and strict code quality standards to improve delivery consistency and maintainability.",
+    "a_bp_24": "Provided leadership for a multi-quarter project to modernize judicial applications, transitioning eFiling and CMS systems to a COTS platform (Tyler Technologies) and overseeing large-scale system integration.",
+    "a_bp_25": "Managed software requirements across cross-functional teams, using excellent written and verbal communication to align stakeholders, document use cases, and ensure delivery from discovery through execution."
 
   },
   "B": {
@@ -35,8 +41,10 @@
     "b_bp_6": "Architected cloud-native APIs on AWS for secure platform integration, with containerized services and automated scaling.",
     "b_bp_7": "Championed customer feedback loops and stakeholder alignment to iteratively evolve roadmap and accelerate product-market fit.",
     "b_bp_8": "Led end-to-end product design lifecycle—from discovery to launch—prioritizing user needs, usability, and market-fit outcomes.",
-    "a_bp_9": ""
-  },
+    "a_bp_9": "Delivered hands-on, on-location group training during mPact Pro deployments; observed end users to gather real-world feedback, uncover design pain points, and rapidly iterate on UI/UX and system functionality.",
+    "b_bp_10": "Led weekly virtual “Friday Happy Hours” as a team building activity to strengthen remote team cohesion, resolve communication breakdowns, and build informal support networks across distributed team members."
+  }
+  ,
   "C": {
     "c_bp_1": "Raised $1.2M over two years through grant funding to support operations and an excess of 170 clients seeking support in launching, expanding, or recovering a small business.",
     "c_bp_2": "Raised a $500K direct micro-loan portfolio to provide capital to start-up Louisville micro-enterprises. Managed loan servicing, collections, and technical assistance.",

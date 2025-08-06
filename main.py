@@ -117,10 +117,10 @@ def main(filename="job_description.txt"):
         Redraft the introduction to align more closely with the job description infering skills and experiance from all provided bullet points in bulletpoint_library.json and output it in G.introduction.  Include the mention of veteran status.  Where possible, demonstrate 
         Select the best  aligned skills from the skills inventory, not to exceed 15 values, and output it into a comma seperated list in G.si.
         Select:
-        The 10 best-aligned bullet points from Section A
-        The 5 best-aligned bullet points from Section B
+        The 14 best-aligned bullet points from Section A
+        The 6 best-aligned bullet points from Section B
         The 2 best-aligned bullet points from Section C
-        Choose bullet points that best match the job’s responsibilities, required skills, and desired experience while trying to minimize redundancy and show a bredth of experiance.  Bullet points should be ordered from most to least realavent.
+        Choose bullet points that best match the job’s responsibilities, required skills, and desired experience while trying to minimize redundancy and show a bredth of experiance.  Bullet points should be ordered from most to least realavent. Prioritize exact keyword matches optimized for a stict ATS system.
         Output Format:
         Return a single JSON object structured as follows:
         {{

@@ -1,26 +1,31 @@
 {
   "G": {
-    "introduction": "U.S. Air Force veteran and accomplished Digital Product Manager with over 10 years of experience in driving digital transformation and eCommerce growth. Proven expertise in leading cross-functional teams, developing strategic product roadmaps, and leveraging next-gen technology to enhance customer acquisition in the Medicare Advantage space. Adept at balancing business objectives with technical requirements to deliver innovative and scalable digital solutions.",
-    "si": "Digital Product Management, eCommerce Strategy, Cross-Functional Leadership, Agile Methodologies, Stakeholder Engagement, Product Roadmap Development, Data-Driven Decision Making, User Experience Design, Cloud-Native Solutions, AI Integration, DevOps Practices, Hypothesis Testing, Customer Acquisition, Strategic Thought Leadership, KPI Monitoring"
+    "introduction": "U.S. Air Force veteran and highly technical Manager with over 10 years of experience in application engineering and team leadership. Proven expertise in managing and mentoring engineering teams, driving project success, and enhancing software development lifecycles with innovative solutions. Skilled in .NET, SQL Server, and cloud-based technologies, with a strong track record in developing scalable software solutions and implementing best practices to improve application quality and efficiency.",
+    "si": ".NET, SQL Server, Team Leadership, Project Management, Application Development, Cloud-Based Technologies, Agile Methodologies, Stakeholder Engagement, Performance Reviews, Mentoring, Cross-Functional Collaboration, Process Improvement, Unit Testing, SAAS Infrastructure, Technical Strategy"
   },
   "A": {
-    "a_bp_1": "Led high-velocity dev engagements and cross-functional planning for enterprise-scale rollouts aligned with critical delivery timelines.",
-    "a_bp_2": "Engaged enterprise stakeholders to align DevSecOps strategy and drive adoption of new developer tooling and cloud architecture.",
-    "a_bp_3": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
+    "a_bp_1": "Led quarterly and annual performance reviews; implemented a sprint-based governance model using a scorecard across 5 axes, reviewed by team leads across 8 agile teams to track and elevate developer performance.",
+    "a_bp_2": "Defined and enforced departmental policies and procedures, including workflow reengineering, release management protocols, and strict code quality standards to improve delivery consistency and maintainability.",
+    "a_bp_3": "Managed software requirements across cross-functional teams, using excellent written and verbal communication to align stakeholders, document use cases, and ensure delivery from discovery through execution.",
     "a_bp_4": "Provided project leadership on $37 million modernization initiative to transition core applications\u2014including the eFiling and Court Case Management systems\u2014to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
     "a_bp_5": "Rearchitected the KYeCourts system and developed 87 new applications, databases, and services to support the COTS solution.",
-    "a_bp_6": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
-    "a_bp_7": "Introduced AI-aligned developer KPIs and tooling benchmarks to quantify productivity, adoption, and performance impact.",
-    "a_bp_8": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
-    "a_bp_9": "Tested feature hypotheses using LaunchDarkly A/B builds; iterated based on KPI-aligned user feedback loops.",
-    "a_bp_10": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements."
+    "a_bp_6": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
+    "a_bp_7": "Built governance frameworks to manage project risks, develop risk mitigation strategies, ensure accountability, and drive progress across internal teams and vendor partnerships.",
+    "a_bp_8": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
+    "a_bp_9": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
+    "a_bp_10": "Established tooling\u2014including Playwright, GitHub Actions, code coverage tracking\u2014to support AI-assisted quality assurance.",
+    "a_bp_11": "Modernized engineering workflows with AI integrations, Azure DevOps and GitHub, driving GitOps, YAML pipelines, and integrated backlog management.",
+    "a_bp_12": "Led ITIL-aligned change management under PMO governance, tracking environment deltas, issuing change notices, and delivering weekly release reports for cross-team and leadership alignment.",
+    "a_bp_13": "Organized process improvement through Agile workflow rearchitecture, increasing story velocity by 30% and reducing cycle time by 40% across delivery teams.",
+    "a_bp_14": "Drafted and enforced unit testing and code coverage standards for production deployment; achieved 100% coverage on new development and reduced production issues by 30% across legacy and greenfield systems."
   },
   "B": {
-    "b_bp_1": "Owned the product design process from end-to-end beginning with requirement discovery through product launch. Drafted low-fidelity wireframes and database schemas.",
-    "b_bp_2": "Partnered with sales in pre-sales engagements to showcase product capabilities; led discovery sessions, crafted mockups, and delivered live demos of prototypes and MVPs to drive client buy-in.",
-    "b_bp_3": "Collaborated with multiple cross-functional teams including backend, UI/UX, Marketing & Documentation. Owned and prioritized the product backlog and led scrum ceremonies.",
-    "b_bp_4": "Voice of the Customer and lead weekly product demonstration meetings with key stakeholders to collect feedback and iterate on the strategic product roadmap.",
-    "b_bp_5": "Negotiated a 3-year, $500K contract to design and develop a cloud-based software application to modernize the Homeownership Readiness industry white labeled under the client\u2019s brand."
+    "b_bp_1": "Partnered with sales in pre-sales engagements to showcase product capabilities; led discovery sessions, crafted mockups, and delivered live demos of prototypes and MVPs to drive client buy-in.",
+    "b_bp_2": "Owned the product design process from end-to-end beginning with requirement discovery through product launch. Drafted low-fidelity wireframes and database schemas.",
+    "b_bp_3": "Voice of the Customer and lead weekly product demonstration meetings with key stakeholders to collect feedback and iterate on the strategic product roadmap.",
+    "b_bp_4": "Collaborated with multiple cross-functional teams including backend, UI/UX, Marketing & Documentation. Owned and prioritized the product backlog and led scrum ceremonies.",
+    "b_bp_5": "Architected cloud-native APIs on AWS for secure platform integration, with containerized services and automated scaling.",
+    "b_bp_6": "Championed customer feedback loops and stakeholder alignment to iteratively evolve roadmap and accelerate product-market fit."
   },
   "C": {
     "c_bp_1": "Raised $1.2M over two years through grant funding to support operations and an excess of 170 clients seeking support in launching, expanding, or recovering a small business.",
