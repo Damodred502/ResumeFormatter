@@ -6,7 +6,7 @@ import re
 from openai import OpenAI
 from dotenv import load_dotenv
 import certifi
-from template_writer import create_updated_template
+from app.template_writer import create_updated_template
 from utils import load_file
 
 

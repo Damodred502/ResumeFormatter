@@ -1,8 +1,21 @@
+import os
+import json
+import sys
+import demjson3
+import re
+from openai import OpenAI
+
+
 def load_file(file_path:str) -> str:
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"{file_path} was not found")
     with open(file_path, "r", encoding="utf-8") as f:
         return f.read()
+    
+def load_json(file_path:str) -> dict:
+    with open(file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return data
     
 def delete_old_output():
     OPENAI_RESPONSE = "./openai_response1.json"
