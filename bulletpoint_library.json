@@ -5,13 +5,13 @@
   },
   
   "A": {
-    "a_bp_1": "Provided project leadership on $37 million modernization initiative to transition core applications\u2014including the eFiling and Court Case Management systems\u2014to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
+    "a_bp_1": "Provided project leadership on $37 million modernization initiative to transition core applications including the eFiling and Court Case Management systems to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
     "a_bp_2": "Rearchitected the KYeCourts system and developed 87 new applications, databases, and services to support the COTS solution.",
     "a_bp_3": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
     "a_bp_4": "Built governance frameworks to manage project risks, develop risk mitigation strategies, ensure accountability, and drive progress across internal teams and vendor partnerships.",
     "a_bp_5": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
     "a_bp_6": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
-    "a_bp_7": "Established tooling\u2014including Playwright, GitHub Actions, code coverage tracking\u2014to support AI-assisted quality assurance.",
+    "a_bp_7": "Established tooling including Playwright, GitHub Actions, code coverage tracking to support AI-assisted quality assurance.",
     "a_bp_8": "Modernized engineering workflows with AI integrations, Azure DevOps and GitHub, driving GitOps, YAML pipelines, and integrated backlog management.",
     "a_bp_9": "Led ITIL-aligned change management under PMO governance, tracking environment deltas, issuing change notices, and delivering weekly release reports for cross-team and leadership alignment.",
     "a_bp_10": "Led high-velocity dev engagements and cross-functional planning for enterprise-scale rollouts aligned with critical delivery timelines.",
