@@ -6,6 +6,8 @@ from sqlalchemy import pool
 from alembic import context
 from app.orm_models import Base
 
+from alembic.autogenerate import renderers
+from app.orm_models import JsonList
 
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
@@ -26,6 +28,13 @@ target_metadata = Base.metadata
 # can be acquired:
 # my_important_option = config.get_main_option("my_important_option")
 # ... etc.
+
+@renderers.dispatch_for(JsonList)
+def render_jsonlist(autogen_context, type_):
+    # EITHER render the custom type and add the import:
+    autogen_context.imports.add("from app.orm_models import JsonList")
+    return "JsonList()"
+
 
 
 def run_migrations_offline() -> None:

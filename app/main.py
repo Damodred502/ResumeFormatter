@@ -55,23 +55,9 @@ def main(filename="job_description.txt"):
         prompt_bundle = load_library_bundle(session)
         print(prompt_bundle.model_dump_json(indent=2))
     
-
-    # INSERT YOUR PROMPT HERE
-
     
-    # print("Calling OpenAI...")
-    # raw_result = call_openai_api(prompt)
 
-    # print("Validating and parsing JSON...")
-    # parsed_json = try_parse_json(raw_result)
 
-    # delete_old_output()
-    
-    # print("Saving Valid Json")
-    # save_response(parsed_json)
-    
-    # print("Creating Updated Template")
-    # create_updated_template()
 
 if __name__ == "__main__":
         main()
