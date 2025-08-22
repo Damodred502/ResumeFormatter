@@ -1,5 +1,6 @@
 from typing import List,Optional, Annotated, TypeAlias
-from pydantic import BaseModel, Field, field_validator, constr
+from pydantic import BaseModel, Field, field_validator, constr, ConfigDict
+from datetime import datetime
 
 SectionCode: TypeAlias = constr(strip_whitespace=True, pattern=r"^[A-Z]$")
 
@@ -35,8 +36,24 @@ class LibraryVersionModel(BaseModel):
     is_active: bool = True
 
 class LibraryBundle(BaseModel):
-    """What you’ll feed to the LLM: one library version + its sections/bullets."""
+    """What you will feed to the LLM: one library version + its sections/bullets."""
     library_version: LibraryVersionModel
     sections: List[SectionModel]
 
     model_config = {"from_attributes": True}  # enable ORM→Pydantic via attribute access
+
+
+class JobDescriptionEvalDTO(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    content_hash: str
+    job_title: str
+    company: str
+    jd_text: str
+    jd_summary: str
+    jd_keywords: List[str]
+    jd_skills: List[str]
+    jd_tasks: List[str]
+    jd_technologies: List[str]
+    created_at_utc: datetime

@@ -1,0 +1,642 @@
+
+--- Log at 2025-08-22T17:09:09.978385 UTC ---
+{
+  "library_version": {
+    "id": null,
+    "version_label": "v1",
+    "is_active": true
+  },
+  "sections": [
+    {
+      "id": 1,
+      "library_version_id": null,
+      "code": "I",
+      "organization": "Information",
+      "title": "General Information",
+      "introduction": "Experienced digital product manager with a proven track record of leading product innovation and driving customer acquisition through next-gen digital capabilities.",
+      "order": null,
+      "bullets": []
+    },
+    {
+      "id": 2,
+      "library_version_id": null,
+      "code": "A",
+      "organization": "Administrative Office of the Courts - KY",
+      "title": "Applications Development Officer",
+      "introduction": "As an Applications Development Officer, I led strategic digital initiatives, enhancing product management and streamlining operations to drive digital transformation.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 1,
+          "section_id": 2,
+          "text": "Provided project leadership on $37 million modernization initiative to transition core applications to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 3,
+          "section_id": 2,
+          "text": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        },
+        {
+          "id": 5,
+          "section_id": 2,
+          "text": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
+          "source_key": null,
+          "rank": 3,
+          "is_active": true
+        },
+        {
+          "id": 10,
+          "section_id": 2,
+          "text": "Led high-velocity dev engagements and cross-functional planning for enterprise-scale rollouts aligned with critical delivery timelines.",
+          "source_key": null,
+          "rank": 4,
+          "is_active": true
+        },
+        {
+          "id": 11,
+          "section_id": 2,
+          "text": "Organized process improvement through Agile workflow rearchitecture, increasing story velocity by 30% and reducing cycle time by 40% across delivery teams.",
+          "source_key": null,
+          "rank": 5,
+          "is_active": true
+        },
+        {
+          "id": 18,
+          "section_id": 2,
+          "text": "Tested feature hypotheses using Launch Darkly A/B builds; iterated based on KPI-aligned user feedback loops.",
+          "source_key": null,
+          "rank": 6,
+          "is_active": true
+        },
+        {
+          "id": 19,
+          "section_id": 2,
+          "text": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements.",
+          "source_key": null,
+          "rank": 7,
+          "is_active": true
+        },
+        {
+          "id": 9,
+          "section_id": 2,
+          "text": "Led ITIL-aligned change management under PMO governance, tracking environment deltas, issuing change notices, and delivering weekly release reports.",
+          "source_key": null,
+          "rank": 8,
+          "is_active": true
+        },
+        {
+          "id": 4,
+          "section_id": 2,
+          "text": "Built governance frameworks to manage project risks, develop risk mitigation strategies, ensure accountability, and drive progress across internal teams and vendor partnerships.",
+          "source_key": null,
+          "rank": 9,
+          "is_active": true
+        },
+        {
+          "id": 7,
+          "section_id": 2,
+          "text": "Established tooling to support AI-assisted quality assurance.",
+          "source_key": null,
+          "rank": 10,
+          "is_active": true
+        },
+        {
+          "id": 14,
+          "section_id": 2,
+          "text": "Achieved 19% Azure cost savings via service optimization and vendor consolidation; identified tech stack synergies to reduce licensed software spend by 10%.",
+          "source_key": null,
+          "rank": 11,
+          "is_active": true
+        },
+        {
+          "id": 6,
+          "section_id": 2,
+          "text": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
+          "source_key": null,
+          "rank": 12,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "library_version_id": null,
+      "code": "B",
+      "organization": "BrickBridge Consulting LLC",
+      "title": "Founder/Product Manager",
+      "introduction": "As Founder and Product Manager, I led the creation of innovative digital solutions, focusing on user experience and strategic product management.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 22,
+          "section_id": 3,
+          "text": "Owned the product design process from end-to-end beginning with requirement discovery through product launch. Drafted low-fidelity wireframes and database schemas.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 23,
+          "section_id": 3,
+          "text": "Voice of the Customer and lead weekly product demonstration meetings with key stakeholders to collect feedback and iterate on the strategic product roadmap.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        },
+        {
+          "id": 21,
+          "section_id": 3,
+          "text": "Partnered with sales in pre-sales engagements to showcase product capabilities; led discovery sessions, crafted mockups, and delivered live demos of prototypes and MVPs to drive client buy-in.",
+          "source_key": null,
+          "rank": 3,
+          "is_active": true
+        },
+        {
+          "id": 24,
+          "section_id": 3,
+          "text": "Collaborated with multiple cross-functional teams including backend, UI/UX, Marketing & Documentation. Owned and prioritized the product backlog and led scrum ceremonies.",
+          "source_key": null,
+          "rank": 4,
+          "is_active": true
+        },
+        {
+          "id": 26,
+          "section_id": 3,
+          "text": "Championed customer feedback loops and stakeholder alignment to iteratively evolve roadmap and accelerate product-market fit.",
+          "source_key": null,
+          "rank": 5,
+          "is_active": true
+        },
+        {
+          "id": 27,
+          "section_id": 3,
+          "text": "Led end-to-end product design lifecyclefrom discovery to launchprioritizing user needs, usability, and market-fit outcomes.",
+          "source_key": null,
+          "rank": 6,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "library_version_id": null,
+      "code": "C",
+      "organization": "Navigate Enterprise Center",
+      "title": "Director",
+      "introduction": "As Director, I harnessed strategic vision and leadership to propel organizational growth and support small business development.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 28,
+          "section_id": 4,
+          "text": "Raised $1.2M over two years through grant funding to support operations and an excess of 170 clients seeking support in launching, expanding, or recovering a small business.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 29,
+          "section_id": 4,
+          "text": "Raised a $500K direct micro-loan portfolio to provide capital to start-up Louisville micro-enterprises. Managed loan servicing, collections, and technical assistance.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        }
+      ]
+    }
+  ]
+}
+
+--- Log at 2025-08-22T18:09:59.225910 UTC ---
+{
+  "library_version": {
+    "id": null,
+    "version_label": "v1",
+    "is_active": true
+  },
+  "sections": [
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "I",
+      "organization": "Information",
+      "title": "General Information",
+      "introduction": "U.S. Air Force veteran and experienced Technical Product Manager with a decade of successfully leading digital transformation initiatives across regulated sectors. Expertise in aligning product strategy with customer needs, fostering cross-functional collaboration, and delivering scalable solutions makes me an excellent fit for driving Medicare Advantage's digital growth. My experience modernizing systems directly translates to innovating how products are managed in a dynamic and fast-paced industry.",
+      "order": null,
+      "bullets": []
+    },
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "A",
+      "organization": "Administrative Office of the Courts - KY",
+      "title": "Applications Development Officer",
+      "introduction": "As an Applications Development Officer, I provided strategic direction and project leadership for critical modernization initiatives. My role involved managing cross-functional teams to deliver innovative solutions, aligning digital product strategies with organizational needs, and leveraging agile methodologies to ensure the effective implementation of complex systems. This experience aligns well with leading digital product management efforts in evolving sectors.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 1,
+          "section_id": null,
+          "text": "Provided project leadership on $37 million modernization initiative to transition core applications—including the eFiling and Court Case Management systems—to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 3,
+          "section_id": null,
+          "text": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        },
+        {
+          "id": 4,
+          "section_id": null,
+          "text": "Built governance frameworks to manage project risks, develop risk mitigation strategies, ensure accountability, and drive progress across internal teams and vendor partnerships.",
+          "source_key": null,
+          "rank": 3,
+          "is_active": true
+        },
+        {
+          "id": 5,
+          "section_id": null,
+          "text": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
+          "source_key": null,
+          "rank": 4,
+          "is_active": true
+        },
+        {
+          "id": 6,
+          "section_id": null,
+          "text": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
+          "source_key": null,
+          "rank": 5,
+          "is_active": true
+        },
+        {
+          "id": 10,
+          "section_id": null,
+          "text": "Led high-velocity dev engagements and cross-functional planning for enterprise-scale rollouts aligned with critical delivery timelines.",
+          "source_key": null,
+          "rank": 6,
+          "is_active": true
+        },
+        {
+          "id": 11,
+          "section_id": null,
+          "text": "Organized process improvement through Agile workflow rearchitecture, increasing story velocity by 30 percent and reducing cycle time by 40% across delivery teams.",
+          "source_key": null,
+          "rank": 7,
+          "is_active": true
+        },
+        {
+          "id": 13,
+          "section_id": null,
+          "text": "Engaged enterprise stakeholders to align DevSecOps strategy and drive adoption of new developer tooling and cloud architecture.",
+          "source_key": null,
+          "rank": 8,
+          "is_active": true
+        },
+        {
+          "id": 17,
+          "section_id": null,
+          "text": "Used Launch Darkly to A/B test dev builds with whitelisted user groups, gathering feedback to improve product delivery.",
+          "source_key": null,
+          "rank": 9,
+          "is_active": true
+        },
+        {
+          "id": 18,
+          "section_id": null,
+          "text": "Tested feature hypotheses using Launch Darkly A/B builds; iterated based on KPI-aligned user feedback loops",
+          "source_key": null,
+          "rank": 10,
+          "is_active": true
+        },
+        {
+          "id": 19,
+          "section_id": null,
+          "text": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements.",
+          "source_key": null,
+          "rank": 11,
+          "is_active": true
+        },
+        {
+          "id": 2,
+          "section_id": null,
+          "text": "Rearchitected the KYeCourts system and developed 87 new applications, databases, and services to support the COTS solution.",
+          "source_key": null,
+          "rank": 12,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "B",
+      "organization": "BrickBridge Consulting LLC",
+      "title": "Founder/Product Manager",
+      "introduction": "As the Founder and Product Manager at BrickBridge Consulting, I led the charge on the design and implementation of scalable SaaS solutions, leveraging agile methodologies to ensure alignment with client needs. My strategic oversight and experience in cloud-native development directly translate to the digital product management responsibilities in a growth-oriented environment like Medicap Advantage.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 21,
+          "section_id": null,
+          "text": "Partnered with sales in pre-sales engagements to showcase product capabilities; led discovery sessions, crafted mockups, and delivered live demos of prototypes and MVPs to drive client buy-in.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 24,
+          "section_id": null,
+          "text": "Collaborated with multiple cross-functional teams including backend, UI/UX, Marketing & Documentation. Owned and prioritized the product backlog and led scrum ceremonies.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        },
+        {
+          "id": 23,
+          "section_id": null,
+          "text": "Voice of the Customer and lead weekly product demonstration meetings with key stakeholders to collect feedback and iterate on the strategic product roadmap.",
+          "source_key": null,
+          "rank": 3,
+          "is_active": true
+        },
+        {
+          "id": 26,
+          "section_id": null,
+          "text": "Championed customer feedback loops and stakeholder alignment to iteratively evolve roadmap and accelerate product-market fit.",
+          "source_key": null,
+          "rank": 4,
+          "is_active": true
+        },
+        {
+          "id": 25,
+          "section_id": null,
+          "text": "Architected cloud-native APIs on AWS for secure platform integration, with containerized services and automated scaling.",
+          "source_key": null,
+          "rank": 5,
+          "is_active": true
+        },
+        {
+          "id": 27,
+          "section_id": null,
+          "text": "Led end-to-end product design lifecycle—from discovery to launch—prioritizing user needs, usability, and market-fit outcomes.",
+          "source_key": null,
+          "rank": 6,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "C",
+      "organization": "Navigate Enterprise Center",
+      "title": "Director",
+      "introduction": "In my role as Director at Navigate Enterprise Center, I strategically managed programs and fundraising initiatives. This involved collaborative approaches to business strategy and stakeholder communication, skills directly applicable to leading product management and innovation at a company focused on digital transformation.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 28,
+          "section_id": null,
+          "text": "Raised $1.2M over two years through grant funding to support operations and an excess of 170 clients seeking support in launching, expanding, or recovering a small business.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 29,
+          "section_id": null,
+          "text": "Raised a $500K direct micro-loan portfolio to provide capital to start-up Louisville micro-enterprises. Managed loan servicing, collections, and technical assistance.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        }
+      ]
+    }
+  ]
+}
+
+--- Log at 2025-08-22T18:13:16.849806 UTC ---
+{
+  "library_version": {
+    "id": null,
+    "version_label": "v1",
+    "is_active": true
+  },
+  "sections": [
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "I",
+      "organization": "Information",
+      "title": "General Information",
+      "introduction": "Experienced Technical Product Manager with a robust background in digital transformation, particularly in high-compliance environments, offering valuable insights applicable to Medicare Advantage through eCommerce and user-centered design. Adept at strategic alignment, cross-functional leadership, and leveraging technology to enhance user acquisition and product innovation.",
+      "order": null,
+      "bullets": []
+    },
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "A",
+      "organization": "Administrative Office of the Courts - KY",
+      "title": "Applications Development Officer",
+      "introduction": "Strategic program manager responsible for leading digital modernization in high-stakes judicial settings, ensuring alignment with eCommerce strategies and agile methodologies. Expertise in cross-functional collaboration and stakeholder engagement to drive digital transformation and product advancement.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 1,
+          "section_id": null,
+          "text": "Provided project leadership on $37 million modernization initiative to transition core applications—including the eFiling and Court Case Management systems—to a commercial off-the-shelf (COTS) solution from Tyler Technologies.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 2,
+          "section_id": null,
+          "text": "Rearchitected the KYeCourts system and developed 87 new applications, databases, and services to support the COTS solution.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        },
+        {
+          "id": 3,
+          "section_id": null,
+          "text": "Fostered executive and stakeholder engagement via daily standups, steering committee briefs, and weekly agile reporting.",
+          "source_key": null,
+          "rank": 3,
+          "is_active": true
+        },
+        {
+          "id": 5,
+          "section_id": null,
+          "text": "Drove developer productivity gains by embedding AI-enabled workflows and agile practices into SDLC modernization initiatives.",
+          "source_key": null,
+          "rank": 4,
+          "is_active": true
+        },
+        {
+          "id": 4,
+          "section_id": null,
+          "text": "Built governance frameworks to manage project risks, develop risk mitigation strategies, ensure accountability, and drive progress across internal teams and vendor partnerships.",
+          "source_key": null,
+          "rank": 5,
+          "is_active": true
+        },
+        {
+          "id": 11,
+          "section_id": null,
+          "text": "Organized process improvement through Agile workflow rearchitecture, increasing story velocity by 30 percent and reducing cycle time by 40% across delivery teams.",
+          "source_key": null,
+          "rank": 6,
+          "is_active": true
+        },
+        {
+          "id": 9,
+          "section_id": null,
+          "text": "Led ITIL-aligned change management under PMO governance, tracking environment deltas, issuing change notices, and delivering weekly release reports for cross-team and leadership alignment.",
+          "source_key": null,
+          "rank": 7,
+          "is_active": true
+        },
+        {
+          "id": 19,
+          "section_id": null,
+          "text": "Partnered with users and design teams to refine UI via continuous feedback loops, optimizing UX journeys and informing iterative product improvements.",
+          "source_key": null,
+          "rank": 8,
+          "is_active": true
+        },
+        {
+          "id": 13,
+          "section_id": null,
+          "text": "Engaged enterprise stakeholders to align DevSecOps strategy and drive adoption of new developer tooling and cloud architecture.",
+          "source_key": null,
+          "rank": 9,
+          "is_active": true
+        },
+        {
+          "id": 6,
+          "section_id": null,
+          "text": "Led CI/CD implementation with Azure DevOps pipelines to accelerate secure, production-grade deployments.",
+          "source_key": null,
+          "rank": 10,
+          "is_active": true
+        },
+        {
+          "id": 8,
+          "section_id": null,
+          "text": "Modernized engineering workflows with AI integrations, Azure DevOps and GitHub, driving GitOps, YAML pipelines, and integrated backlog management.",
+          "source_key": null,
+          "rank": 11,
+          "is_active": true
+        },
+        {
+          "id": 10,
+          "section_id": null,
+          "text": "Led high-velocity dev engagements and cross-functional planning for enterprise-scale rollouts aligned with critical delivery timelines.",
+          "source_key": null,
+          "rank": 12,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "B",
+      "organization": "BrickBridge Consulting LLC",
+      "title": "Founder/Product Manager",
+      "introduction": "Founder and Product Manager skilled in designing scalable, user-driven SaaS solutions. Expertise in agile development, customer discovery, and strategic product management, with a focus on practical innovation in digital experiences and team leadership.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 23,
+          "section_id": null,
+          "text": "Voice of the Customer and lead weekly product demonstration meetings with key stakeholders to collect feedback and iterate on the strategic product roadmap.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 24,
+          "section_id": null,
+          "text": "Collaborated with multiple cross-functional teams including backend, UI/UX, Marketing & Documentation. Owned and prioritized the product backlog and led scrum ceremonies.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        },
+        {
+          "id": 26,
+          "section_id": null,
+          "text": "Championed customer feedback loops and stakeholder alignment to iteratively evolve roadmap and accelerate product-market fit.",
+          "source_key": null,
+          "rank": 3,
+          "is_active": true
+        },
+        {
+          "id": 27,
+          "section_id": null,
+          "text": "Led end-to-end product design lifecycle—from discovery to launch—prioritizing user needs, usability, and market-fit outcomes.",
+          "source_key": null,
+          "rank": 4,
+          "is_active": true
+        },
+        {
+          "id": 21,
+          "section_id": null,
+          "text": "Partnered with sales in pre-sales engagements to showcase product capabilities; led discovery sessions, crafted mockups, and delivered live demos of prototypes and MVPs to drive client buy-in.",
+          "source_key": null,
+          "rank": 5,
+          "is_active": true
+        },
+        {
+          "id": 25,
+          "section_id": null,
+          "text": "Architected cloud-native APIs on AWS for secure platform integration, with containerized services and automated scaling.",
+          "source_key": null,
+          "rank": 6,
+          "is_active": true
+        }
+      ]
+    },
+    {
+      "id": null,
+      "library_version_id": null,
+      "code": "C",
+      "organization": "Navigate Enterprise Center",
+      "title": "Director",
+      "introduction": "Director tasked with strategic program management and fundraising in entrepreneurial environments, aligning small business needs with digital product initiatives and fostering growth through strategic financial management and stakeholder collaboration.",
+      "order": null,
+      "bullets": [
+        {
+          "id": 28,
+          "section_id": null,
+          "text": "Raised $1.2M over two years through grant funding to support operations and an excess of 170 clients seeking support in launching, expanding, or recovering a small business.",
+          "source_key": null,
+          "rank": 1,
+          "is_active": true
+        },
+        {
+          "id": 29,
+          "section_id": null,
+          "text": "Raised a $500K direct micro-loan portfolio to provide capital to start-up Louisville micro-enterprises. Managed loan servicing, collections, and technical assistance.",
+          "source_key": null,
+          "rank": 2,
+          "is_active": true
+        }
+      ]
+    }
+  ]
+}

@@ -2,9 +2,13 @@
 from typing import List
 from sqlalchemy import select
 from sqlalchemy.orm import selectinload
-from app.orm_models import LibraryVersion, Section, Bullet
-from app.resume_model import LibraryVersionModel, SectionModel, BulletModel, LibraryBundle
+from app.orm_models import LibraryVersion, Section, Bullet, JobDescriptionEval
+from app.resume_model import LibraryVersionModel, SectionModel, BulletModel, LibraryBundle, JobDescriptionEvalDTO
+import pprint
 
+
+
+#---BPLib Loader------ pulls most recent active full BP library
 def get_active_library_version(session) -> LibraryVersion:
     q = (
         select(LibraryVersion)
@@ -62,3 +66,34 @@ def load_library_bundle(session) -> LibraryBundle:
         ),
         sections=sections,
     )
+
+#---JD Loader------ pulls most recent evaluated jd
+
+def load_jd_evaluation(session, eval_id: int | None = None) -> JobDescriptionEval:
+    if eval_id is not None:
+        stmt = select(JobDescriptionEval).where(JobDescriptionEval.id == eval_id)
+        evaluation = session.execute(stmt).scalars().first()
+        if evaluation is None:
+            raise ValueError(f"Job Description with id = {eval_id} not found")
+    else:
+        stmt = select(JobDescriptionEval).order_by(JobDescriptionEval.id.desc()).limit(1)
+        evaluation = session.execute(stmt).scalars().first()
+        if evaluation is None:
+            raise ValueError("No JobDescriptionEval records exist yet")
+    
+    return evaluation
+
+
+
+
+
+if __name__ == "__main__":
+    from app.db import SessionLocal
+
+    with SessionLocal() as session:
+        bundle = load_library_bundle(session)
+
+    try:
+        print(bundle.model_dump_json(indent=2))
+    except AttributeError:
+        pass
